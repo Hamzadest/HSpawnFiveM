@@ -35,7 +35,7 @@ Citizen.CreateThread(function()
 	"Buzzard", -- Hélico lambda je sais plus le nom de l'hélico noir qui crash no stop
 	"Buzzard2", --
 	"Maverick", -- hélico au dessus comico
-        "Maverick1", --
+        "polmav", --
 		
     }
 
