@@ -29,13 +29,13 @@ Citizen.CreateThread(function()
         "RHINO", -- Conduit régulièrement autour de la surface de l'aéroport de Zancudo
         "AIRTUG", -- Apparaît régulièrement sur la surface de l'aéroport LSIA
         "RIPLEY", -- Apparaît régulièrement sur la surface de l'aéroport LSIA
-		"BLIMP", -- Les foutus dirigeable
-		"BLIMP2", -- dirigeable
-		"BLIMP3", -- Dirigeable
-		'Buzzard' -- Hélico lambda je sais plus le nom de l'hélico noir qui crash no stop
-		'Buzzard2' --
-		'Maverick' -- hélico au dessus comico
-		'Maverick1' --
+	"BLIMP", -- Les foutus dirigeable
+	"BLIMP2", -- dirigeable
+	"BLIMP3", -- Dirigeable
+	"Buzzard", -- Hélico lambda je sais plus le nom de l'hélico noir qui crash no stop
+	"Buzzard2", --
+	"Maverick", -- hélico au dessus comico
+        "Maverick1", --
 		
     }
 
