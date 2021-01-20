@@ -1,7 +1,7 @@
--- HSpawn ou HamzaSpawn by Hamza
--- Désactive et empèche certains spawn
+fx_version 'bodacious'
 
-resource_manifest_version 'cerulean'
-games {'gta5'}
+game 'gta5'
 
-client_script 'client.lua'
+author 'Hamza'
+description 'FixSpawn et syncEntité'
+version '1.0.0'
