@@ -1,5 +1,5 @@
 --Crédit : Hamza#8602
---For BostRp
+--For Afterlife (Script opensource pour aider tout le monde)
 --Modification autorisé, mais appropriation intellectuel interdite. Merci de me contacter en cas de problème. 
 --Ce script optimise et désactive certains scénarion et véhicule. 
 
