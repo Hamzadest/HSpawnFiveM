@@ -9,5 +9,9 @@ Scènario inutile
 Fonctionne en boucle
 Totallement configurable
 
+# MAJ 
+
+Désormais vous pouvez gérer la densité des pnjs
+
 # Auteur 
 Hamza#8602
